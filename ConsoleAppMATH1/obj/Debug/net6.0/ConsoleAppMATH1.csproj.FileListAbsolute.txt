@@ -1,0 +1,5 @@
+C:\Users\ETG1\source\repos\ConsoleAppMATH1\ConsoleAppMATH1\obj\Debug\net6.0\ConsoleAppMATH1.csproj.AssemblyReference.cache
+C:\Users\ETG1\source\repos\ConsoleAppMATH1\ConsoleAppMATH1\obj\Debug\net6.0\ConsoleAppMATH1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ETG1\source\repos\ConsoleAppMATH1\ConsoleAppMATH1\obj\Debug\net6.0\ConsoleAppMATH1.AssemblyInfoInputs.cache
+C:\Users\ETG1\source\repos\ConsoleAppMATH1\ConsoleAppMATH1\obj\Debug\net6.0\ConsoleAppMATH1.AssemblyInfo.cs
+C:\Users\ETG1\source\repos\ConsoleAppMATH1\ConsoleAppMATH1\obj\Debug\net6.0\ConsoleAppMATH1.csproj.CoreCompileInputs.cache
